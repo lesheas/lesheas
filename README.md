@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... front end coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...me email
+- 📫 How to reach me ...my email
 
 <!---
 lesheas/lesheas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
